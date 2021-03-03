@@ -10,7 +10,7 @@
 ###Реализация CI:
 1. В Jenkins создается параметризированная джоба. В джобе указан репозиторий с github, где находятся тесты. Сборщик Gradle.
 
-![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+![JobJenkins](https://github.com/Varuna108/UI_API_TEST-Selenide-Selenoid-/blob/master/src/test/resources/images/jenkins%20job.png)
 
 
 
