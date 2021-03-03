@@ -20,6 +20,12 @@ ext {
     junitVersion = "5.7.0"
 }
 
+configurations {
+    testCompile {
+        extendsFrom compile
+    }
+}
+
 repositories {
     maven {url = "https://dl.bintray.com/qameta/maven-unstable/"}
     mavenCentral()
